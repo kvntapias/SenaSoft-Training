@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RODAMIENTOS_PULIDOS", "RODAMIENTOS_PULIDOS\RODAMIENTOS_PULIDOS.csproj", "{B5F6815E-3F2E-481C-A916-7B37A2D4797A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{557BFBBB-FB02-4E6F-A73C-65770BA74103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{D7BA3580-C02C-4B38-B67A-2F3A5A1FCF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F6815E-3F2E-481C-A916-7B37A2D4797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F6815E-3F2E-481C-A916-7B37A2D4797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F6815E-3F2E-481C-A916-7B37A2D4797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F6815E-3F2E-481C-A916-7B37A2D4797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557BFBBB-FB02-4E6F-A73C-65770BA74103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557BFBBB-FB02-4E6F-A73C-65770BA74103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557BFBBB-FB02-4E6F-A73C-65770BA74103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557BFBBB-FB02-4E6F-A73C-65770BA74103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BA3580-C02C-4B38-B67A-2F3A5A1FCF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BA3580-C02C-4B38-B67A-2F3A5A1FCF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BA3580-C02C-4B38-B67A-2F3A5A1FCF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BA3580-C02C-4B38-B67A-2F3A5A1FCF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49743DF-013E-4FA4-B888-66AEB347C660}
+	EndGlobalSection
+EndGlobal
